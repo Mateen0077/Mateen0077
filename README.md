@@ -24,7 +24,6 @@ Passionate Full Stack Developer with expertise in both MERN stack and Laravel fr
 
 ## 📈 GitHub Stats
 
-[![Inayatullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateen0077&show_icons=true&theme=radical)](https://github.com/Mateen0077)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateen0077&layout=compact&theme=radical)](https://github.com/Mateen0077)
 
