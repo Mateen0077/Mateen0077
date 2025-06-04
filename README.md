@@ -1,15 +1,42 @@
-# **Bytewise Mern Stack Fellowship**
+# Hi, I'm Inayatullah Mateen 👋
 
-| No | Task | Status | Deployment |
-|----|------|--------|------------|
-| 1 | [HTML Basics](https://youtu.be/UB1O30fR-EE) | &#x2713; Completed | https://mateen0077.github.io/Bytewise-Mern-HTML-Crash-Course/ |
-| 2 | [CSS Basics](https://youtu.be/yfoY53QXEnI) | &#x2713; Completed | https://mateen0077.github.io/css-crash-course/ |
-| 3 | [Build Website (HTML CSS)](https://www.youtube.com/watch?v=lvYnfMOUOJY) | &#x2713; Completed | https://mateen0077.github.io/Agency-Website-CSS-HTML/ |
-| 4 | [Learn Flexbox](https://www.youtube.com/watch?v=3YW65K6LcIA) | &#x2713; Completed | https://mateen0077.github.io/Flex-Box-CSS/ |
-| 5 | [Learn SASS](https://www.youtube.com/watch?v=_a5j7KoflTs) | &#x2713; Completed | https://github.com/Mateen0077/Saas-Practice |
-| 6 | [Learn Tailwind](https://www.youtube.com/watch?v=dFgzHOX84xQ&t=336s) | &#x2713; Completed | https://mateen0077.github.io/TailWind-CSS/ |
-| 7 | [Learn JS Fundamentals](https://youtu.be/XIOLqoPHCJ4) | &#x2713; Completed | https://github.com/Mateen0077/JS-Fundamentals |
-| 8 | [Learn DOM Manipulation](https://www.youtube.com/watch?v=5fb2aPlgoys) | &#x2713; Completed | https://github.com/Mateen0077/JS-Dom-Manipulation |
-| 9 | [To-Do List JS](https://www.youtube.com/watch?v=y71CdVq5SvI&feature=youtu.be) | &#x2713; Completed |  |
-|10| [React Task Tracker ]| &#x2713; Completed | https://github.com/Mateen0077/React-Task-Tracker- |
-|11| [Node.js Full Course for Beginners](https://www.youtube.com/watch?v=f2EqECiTBL8) | &#x2713; Completed | https://github.com/Mateen0077/NodeJS-Course-Completed |
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Laravel+Specialist;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
+
+Passionate Full Stack Developer with expertise in both MERN stack and Laravel frameworks. I build robust, scalable, and efficient web applications with clean code and modern technologies.
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?logo=mui&logoColor=white&style=flat)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
+
+## 📈 GitHub Stats
+
+[![Inayatullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateen0077&show_icons=true&theme=radical)](https://github.com/Mateen0077)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateen0077&layout=compact&theme=radical)](https://github.com/Mateen0077)
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/inayatullah-mateen-20936b1b1/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome&logoColor=white&style=flat)](https://inayatullahmateen07.netlify.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:mateenrajput777@gmail.com)
+
+## 📫 How to reach me
+
+- 💬 Ask me about **MERN stack, Laravel, or web development in general**
+- 📧 Email: **mateenrajput777@gmail.com**
+- 🌐 Portfolio: **[inayatullahmateen07.netlify.app](https://inayatullahmateen07.netlify.app/)**
+- 👨‍💻 GitHub: **[github.com/Mateen0077](https://github.com/Mateen0077)**
