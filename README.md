@@ -22,11 +22,6 @@ Passionate Full Stack Developer with expertise in both MERN stack and Laravel fr
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
 
-## 📈 GitHub Stats
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateen0077&layout=compact&theme=radical)](https://github.com/Mateen0077)
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/inayatullah-mateen-20936b1b1/)
