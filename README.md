@@ -7,7 +7,7 @@ I’m a Full Stack Developer and Founder of **Matexa**, an AI automation and web
 At Matexa, I focus on building practical business solutions using modern web technologies, AI tools, automation platforms, and clean full-stack development.
 
 🌐 **Matexa Website:** [matexa.co.uk](https://www.matexa.co.uk/)  
-📧 **Business Email:** [matexa@matexa.co.uk](mailto:hello@matexa.co.uk)
+📧 **Business Email:** [hello@matexa.co.uk](mailto:hello@matexa.co.uk)
 
 ---
 
