@@ -1,4 +1,4 @@
-# Hi, I'm Inayatullah Mateen 👋
+# Hi, I'm  Mateen 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3FFF&width=600&lines=Full+Stack+Developer;Founder+of+Matexa;AI+Automation+Developer;MERN+Stack+Developer;Laravel+Specialist;Web+%26+Automation+Systems)](https://git.io/typing-svg)
 
