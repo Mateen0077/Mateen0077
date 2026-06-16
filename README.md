@@ -1,10 +1,10 @@
 # Hi, I'm Mateen 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3FFF&width=600&lines=Full+Stack+Developer;Founder+of+Matexa;AI+Automation+Developer;MERN+Stack+Developer;Laravel+Specialist;Web+%26+Automation+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3FFF&width=750&lines=Full+Stack+Developer;Founder+of+Matexa;AI+Automation+Developer;MERN+Stack+Developer;Laravel+Specialist;AWS+%7C+Docker+%7C+Deployment;Web+%26+Automation+Systems)](https://git.io/typing-svg)
 
 I’m a Full Stack Developer and Founder of **Matexa**, an AI automation and web development agency helping businesses build modern websites, smart automations, chatbots, CRM workflows, and scalable digital systems.
 
-At Matexa, I focus on building practical business solutions using modern web technologies, AI tools, automation platforms, and clean full-stack development.
+At Matexa, I focus on building practical business solutions using modern web technologies, AI tools, automation platforms, cloud deployment, Docker-based workflows, and clean full-stack development.
 
 🌐 **Matexa Website:** [matexa.co.uk](https://www.matexa.co.uk/)  
 📧 **Business Email:** [hello@matexa.co.uk](mailto:hello@matexa.co.uk)
@@ -23,6 +23,7 @@ At Matexa, I focus on building practical business solutions using modern web tec
 - n8n / Zapier / Make Workflows
 - Business Process Automation
 - SaaS & Dashboard Development
+- Cloud Deployment & DevOps
 
 ---
 
@@ -53,6 +54,18 @@ At Matexa, I focus on building practical business solutions using modern web tec
 ![Make](https://img.shields.io/badge/-Make-6D00CC?logo=make&logoColor=white&style=flat)
 ![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-1E293B?style=flat)
 
+### Deployment & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
+![Hostinger](https://img.shields.io/badge/-Hostinger-673DE6?style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+
 ### Payments & Email
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white&style=flat)
 ![Resend](https://img.shields.io/badge/-Resend-000000?style=flat)
@@ -64,8 +77,8 @@ At Matexa, I focus on building practical business solutions using modern web tec
 
 | Project | Live Link | Project Type | Description |
 |---|---|---|---|
-| **[Matexa](https://www.matexa.co.uk/)** | [Visit Website](https://www.matexa.co.uk/) | AI Automation & Web Development Agency | My agency website for AI automation, websites, chatbots, CRM workflows, and business automation systems. |
-| **[FutCoinSpot](https://www.futcoinspot.com/)** | [Visit Website](https://www.futcoinspot.com/) | FC Coin Trading Platform | A full-featured FIFA coin trading platform with payments, affiliate programme, and automated order fulfilment. |
+| **[Matexa](https://www.matexa.co.uk/)** | [Visit Website](https://www.matexa.co.uk/) | AI Automation & Web Development Agency | My agency website for AI automation, web development, chatbots, CRM workflows, and business automation systems. |
+| **[FutCoinSpot](https://www.futcoinspot.com/)** | [Visit Website](https://www.futcoinspot.com/) | FC Coin Trading Platform | A full-featured FC coin trading platform with payments, affiliate programme, and automated order fulfilment. |
 | **[LSP Leads](https://lspleads.vercel.app/)** | [Visit Website](https://lspleads.vercel.app/) | Real Estate / LSP Data Platform | A subscription-based data platform offering high-quality LSP leads across different US states. |
 | **[UK Commercial Flooring](https://www.ukcommercialflooring.co.uk/)** | [Visit Website](https://www.ukcommercialflooring.co.uk/) | WhatsApp Automation / Business Website | A UK business website with WhatsApp automation to improve lead handling and customer communication. |
 | **[Spray Painting Near Me](https://spraypaintingnearme.co.uk/)** | [Visit Website](https://spraypaintingnearme.co.uk/) | UK-Based Spraying Services Website | A UK service website built for local search visibility, lead generation, and service presentation. |
@@ -106,7 +119,7 @@ A UK-based service website built for local search visibility, lead generation, a
 
 ## 📫 How to Reach Me
 
-- 💬 Ask me about **AI automation, MERN stack, Laravel, web development, SaaS dashboards, or business automation**
+- 💬 Ask me about **AI automation, MERN stack, Laravel, web development, SaaS dashboards, cloud deployment, Docker, or business automation**
 - 📧 Business Email: **hello@matexa.co.uk**
 - 🌐 Matexa: **[www.matexa.co.uk](https://www.matexa.co.uk/)**
 - 👨‍💻 GitHub: **[github.com/Mateen0077](https://github.com/Mateen0077)**
