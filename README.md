@@ -1,4 +1,4 @@
-# Hi, I'm  Mateen 👋
+# Hi, I'm Mateen 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3FFF&width=600&lines=Full+Stack+Developer;Founder+of+Matexa;AI+Automation+Developer;MERN+Stack+Developer;Laravel+Specialist;Web+%26+Automation+Systems)](https://git.io/typing-svg)
 
@@ -62,34 +62,34 @@ At Matexa, I focus on building practical business solutions using modern web tec
 
 ## 🌐 Live Projects
 
-| Project | Live URL | Type |
-|---|---|---|
-| **Matexa** | [matexa.co.uk](https://www.matexa.co.uk/) | AI Automation & Web Development Agency |
-| **FutCoinSpot** | [futcoinspot.com](https://www.futcoinspot.com/) | FC Coin Trading Platform |
-| **LSP Leads** | [lspleads.vercel.app](https://lspleads.vercel.app/) | Real Estate / LSP Data Platform |
-| **UK Commercial Flooring** | [ukcommercialflooring.co.uk](https://www.ukcommercialflooring.co.uk/) | WhatsApp Automation / Business Website |
-| **Spray Painting Near Me** | [spraypaintingnearme.co.uk](https://spraypaintingnearme.co.uk/) | UK-Based Spraying Services Website |
+| Project | Live Link | Project Type | Description |
+|---|---|---|---|
+| **[Matexa](https://www.matexa.co.uk/)** | [Visit Website](https://www.matexa.co.uk/) | AI Automation & Web Development Agency | My agency website for AI automation, websites, chatbots, CRM workflows, and business automation systems. |
+| **[FutCoinSpot](https://www.futcoinspot.com/)** | [Visit Website](https://www.futcoinspot.com/) | FC Coin Trading Platform | A full-featured FIFA coin trading platform with payments, affiliate programme, and automated order fulfilment. |
+| **[LSP Leads](https://lspleads.vercel.app/)** | [Visit Website](https://lspleads.vercel.app/) | Real Estate / LSP Data Platform | A subscription-based data platform offering high-quality LSP leads across different US states. |
+| **[UK Commercial Flooring](https://www.ukcommercialflooring.co.uk/)** | [Visit Website](https://www.ukcommercialflooring.co.uk/) | WhatsApp Automation / Business Website | A UK business website with WhatsApp automation to improve lead handling and customer communication. |
+| **[Spray Painting Near Me](https://spraypaintingnearme.co.uk/)** | [Visit Website](https://spraypaintingnearme.co.uk/) | UK-Based Spraying Services Website | A UK service website built for local search visibility, lead generation, and service presentation. |
 
 ---
 
 ## 💼 Featured Work
 
-### 🔹 FutCoinSpot
+### 🔹 [FutCoinSpot](https://www.futcoinspot.com/)
 A full-featured FC coin trading platform with multi-currency support, Stripe and crypto payments, affiliate programme, and automated order fulfilment.
 
 **Tech:** React, Node.js, Stripe, Cryptomus, Resend, API Integrations
 
-### 🔹 LSP Leads
+### 🔹 [LSP Leads](https://lspleads.vercel.app/)
 A subscription-based data platform offering high-quality LSP leads across different US states with dashboards, access control, and paid subscriptions.
 
 **Tech:** Next.js, PostgreSQL, Supabase, Stripe
 
-### 🔹 UK Commercial Flooring Automation
+### 🔹 [UK Commercial Flooring Automation](https://www.ukcommercialflooring.co.uk/)
 A business website and WhatsApp automation setup designed to improve lead handling and customer communication.
 
 **Tech:** WordPress, WhatsApp Automation, CRM Workflow
 
-### 🔹 Spray Painting Near Me
+### 🔹 [Spray Painting Near Me](https://spraypaintingnearme.co.uk/)
 A UK-based service website built for local search visibility, lead generation, and service presentation.
 
 **Tech:** WordPress, SEO, Lead Generation
@@ -100,17 +100,18 @@ A UK-based service website built for local search visibility, lead generation, a
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/inayatullah-mateen-20936b1b1/)
 [![Matexa](https://img.shields.io/badge/-Matexa-7B3FFF?logo=google-chrome&logoColor=white&style=flat)](https://www.matexa.co.uk/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:matexa@matexa.co.uk)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:hello@matexa.co.uk)
 
 ---
 
 ## 📫 How to Reach Me
 
 - 💬 Ask me about **AI automation, MERN stack, Laravel, web development, SaaS dashboards, or business automation**
-- 📧 Business Email: **matexa@matexa.co.uk**
+- 📧 Business Email: **hello@matexa.co.uk**
 - 🌐 Matexa: **[www.matexa.co.uk](https://www.matexa.co.uk/)**
 - 👨‍💻 GitHub: **[github.com/Mateen0077](https://github.com/Mateen0077)**
 
 ---
 
 > Building smart digital systems for modern businesses.
+```
